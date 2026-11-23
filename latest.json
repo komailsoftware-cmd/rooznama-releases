@@ -1,6 +1,6 @@
 {
-  "version": "1.5.7",
-  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.7/Rooznama_Setup_1.5.7.exe",
-  "sha256": "293e14acf0c61470ed7d8608d6045ffed1b0519540f8bbfc4b77015faf4cb9cc",
-  "notes": "متن پنجرهٔ تنظیمات و منوی کلیک‌راست حالا صاف و واضح (بدون لبه‌های پیکسلی) نمایش داده می‌شود؛ پنجرهٔ یادداشت هم با مقیاس نمایشگر هماهنگ شد."
+  "version": "1.5.8",
+  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.8/Rooznama_Setup_1.5.8.exe",
+  "sha256": "ef643230cb9812947cdc612121f4387dc36b088b4d2b3e65b15d7fd1265a0d6f",
+  "notes": "باز کردن کارت از نوار باریک حالا فوری و یک‌جا انجام می‌شود: ساعت، آیکون آب‌وهوا و نوار اخبار از همان لحظهٔ اول دیده می‌شوند و کارت دیگر تکه‌تکه ساخته نمی‌شود."
 }
