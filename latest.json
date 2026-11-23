@@ -1,6 +1,6 @@
 {
-  "version": "1.5.5",
-  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.5/Rooznama_Setup_1.5.5.exe",
-  "sha256": "56a0af8e8bbf027cf5365899e2768942880795242e01abd68e58ea5d19e27e83",
-  "notes": "پنجرهٔ تنظیمات: شهر، اندازهٔ کارت (خودکار یا دلخواه)، سرعت و دسته‌های نوار اخبار، تأخیر پاپ‌آپ روز و به‌روزرسانی خودکار؛ از چرخ‌دندهٔ گوشهٔ کارت، آیکون کنار ساعت ویندوز یا راست‌کلیک باز می‌شود. دکمهٔ جمع کردن کارت به یک نوار باریک. توضیح خبر پس از ۱ ثانیه مکث موس. بررسی آپدیت هر ۳۰ دقیقه و دکمهٔ «بررسی آپدیت الان»."
+  "version": "1.5.6",
+  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.6/Rooznama_Setup_1.5.6.exe",
+  "sha256": "dd597bd8dd8e7371d4488c3c5a454ef3c4960f51cda09f8d2bbd8a794f9dbd7e",
+  "notes": "رفع بسته شدن ناگهانی ویجت هنگام جمع کردن یا باز کردن کارت (از منو، آیکون کنار ساعت یا دکمهٔ گوشهٔ کارت)."
 }
