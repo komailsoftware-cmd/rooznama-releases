@@ -1,6 +1,6 @@
 {
-  "version": "1.5.10",
-  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.10/Rooznama_Setup_1.5.10.exe",
-  "sha256": "69c7b8a3dab491dd81a3bc6e6f684b91cac0ae13fd78912ab64032ecaa633516",
-  "notes": "روزنما ۱٫۵٫۱۰\n• زیر آیه‌ها فقط نام سوره و شمارهٔ آیه نوشته می‌شود.\n• نیم‌فاصله‌ها در ترجمهٔ فارسی آیه‌ها درست شد (مثل «صدف‌اند»، «آسمان‌ها»، «نعمت‌های»).\n• پاپ‌آپ مناسبت روز حالا پس از ۱٫۵ ثانیه باز می‌شود (به جای ۳ ثانیه)."
+  "version": "1.5.11",
+  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.11/Rooznama_Setup_1.5.11.exe",
+  "sha256": "e25114955a77929f8191226a7d5f53c17472f2e14d81471242c0261700971237",
+  "notes": "روزنما ۱٫۵٫۱۱\n• نیم‌فاصلهٔ واژه‌های مرکب در ترجمهٔ فارسی آیه‌ها درست شد (مثل «تسلیم‌شدگان»، «تکذیب‌کنندگان»، «توبه‌پذیر»، «پاره‌ای»)."
 }
