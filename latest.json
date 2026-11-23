@@ -1,6 +1,6 @@
 {
-  "version": "1.5.6",
-  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.6/Rooznama_Setup_1.5.6.exe",
-  "sha256": "dd597bd8dd8e7371d4488c3c5a454ef3c4960f51cda09f8d2bbd8a794f9dbd7e",
-  "notes": "رفع بسته شدن ناگهانی ویجت هنگام جمع کردن یا باز کردن کارت (از منو، آیکون کنار ساعت یا دکمهٔ گوشهٔ کارت)."
+  "version": "1.5.7",
+  "url": "https://github.com/komailsoftware-cmd/rooznama-releases/releases/download/v1.5.7/Rooznama_Setup_1.5.7.exe",
+  "sha256": "293e14acf0c61470ed7d8608d6045ffed1b0519540f8bbfc4b77015faf4cb9cc",
+  "notes": "متن پنجرهٔ تنظیمات و منوی کلیک‌راست حالا صاف و واضح (بدون لبه‌های پیکسلی) نمایش داده می‌شود؛ پنجرهٔ یادداشت هم با مقیاس نمایشگر هماهنگ شد."
 }
